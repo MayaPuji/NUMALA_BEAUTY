@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    height:50px;
+}
+
+.icon{
+    background-color:rgb(245, 187, 177);
+    padding:0.5px;
+    color:white;
+}
+
+.icon ul li{
+    display: inline-block;
+    color:white;
+    margin-right: 10px;
+}
